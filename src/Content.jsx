@@ -1,8 +1,12 @@
 const Content = () => {
+    
+    const wallpapers = [
+        
+    ]
     return(
-        <nav>
-            <h3>Hello Again</h3>
-        </nav>
+        <div className="content-container">
+            
+        </div>
     )
 }
 
