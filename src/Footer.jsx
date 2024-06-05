@@ -1,8 +1,8 @@
 const Footer = () => {
     return(
-        <nav>
+        <footer>
             <h4>Last One</h4>
-        </nav>
+        </footer>
     )
 }
 
