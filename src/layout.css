@@ -12,8 +12,10 @@ nav {
     background: green;
 }
 
-Main {
+.content {
     background: blue;
+    z-index: 5;
+    width: 50px;
 }
 
 Footer {
