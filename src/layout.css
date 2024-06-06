@@ -1,0 +1,21 @@
+.main-container {
+    display: flex;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+}
+
+nav {
+    background: blue;
+}
+
+.header-container {
+    background: green;
+}
+
+Main {
+    background: blue;
+}
+
+Footer {
+    background: red;
+}
