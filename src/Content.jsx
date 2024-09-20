@@ -9,6 +9,7 @@ const Content = () => {
 
     return(
         <main>
+            <h2>Collection</h2>
             <h3>New Releases</h3>
             <section className="new-release-container">
             <a href="" alt=""></a>
