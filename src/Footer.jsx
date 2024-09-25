@@ -6,6 +6,7 @@ const Footer = () => {
             <a href=''>Twitter</a>
             <a href=''>Github</a>
             <a href=''>LinkedIn</a>
+            <p>All rights reserved 2024</p>
         </footer>
     )
 }
