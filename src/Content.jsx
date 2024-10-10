@@ -19,10 +19,10 @@ const Content = () => {
             </section>
             <h3>Featured Wallpapers</h3>
             <section className="Featured-container">
-            <a href="" alt=""></a>
-            <a href="" alt=""></a>
-            <a href="" alt=""></a>
-            <a href="" alt=""></a>
+            <a href=""><img src='' alt=""/></a>
+            <a href=""><img src='' alt=""/></a>
+            <a href=""><img src='' alt=""/></a>
+            <a href=""><img src='' alt=""/></a>
             </section>
         </main>
     )
